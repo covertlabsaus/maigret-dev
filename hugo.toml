@@ -1,0 +1,42 @@
+baseURL = 'https://maigret.dev'
+languageCode = 'en-us'
+title = 'Maigret Documentation'
+theme = 'hextra'
+
+[markup.goldmark.renderer]
+unsafe = true
+
+[menu]
+  [[menu.main]]
+    name = "Documentation"
+    pageRef = "/docs"
+    weight = 10
+  [[menu.main]]
+    name = "Installation"
+    pageRef = "/docs/installation"
+    weight = 20
+  [[menu.main]]
+    name = "Usage"
+    pageRef = "/docs/usage"
+    weight = 30
+  [[menu.main]]
+    identifier = "github"
+    name = "GitHub"
+    url = "https://github.com/soxoj/maigret"
+    weight = 40
+
+[params]
+  description = "Collect a dossier on a person by username from thousands of sites"
+  displayUpdatedDate = true
+  DateFormat = "January 2, 2006"
+
+  [params.navbar]
+    displayTitle = true
+    displayLogo = false
+
+  [params.footer]
+    displayCopyright = true
+    displayPoweredBy = false
+
+  [params.editPage]
+    enable = false
