@@ -1,3 +1,9 @@
++++
+title = 'Recursive Search Demo'
+date = '2025-09-26T21:03:00+10:00'
+draft = false
++++
+
 ## Demo with page parsing and recursive username search
 
 ```bash

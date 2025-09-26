@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://maigret.dev/sitemap.xml

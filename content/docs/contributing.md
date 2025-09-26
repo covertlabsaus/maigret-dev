@@ -1,3 +1,9 @@
++++
+title = 'Contributing'
+date = '2025-09-26T21:03:00+10:00'
+draft = false
++++
+
 # How to contribute
 
 Hey! I'm really glad you're reading this. Maigret contains a lot of sites, and it is very hard to keep all the sites operational. That's why any fix is important. 

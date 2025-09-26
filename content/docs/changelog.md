@@ -1,3 +1,9 @@
++++
+title = 'Changelog'
+date = '2025-09-26T21:03:00+10:00'
+draft = false
++++
+
 # Changelog
 
 ## [0.5.0] - 2025-08-10

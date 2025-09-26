@@ -2,6 +2,10 @@ baseURL = 'https://maigret.dev'
 languageCode = 'en-us'
 title = 'Maigret Documentation'
 theme = 'hextra'
+enableRobotsTXT = true
+
+[outputs]
+  home = ['HTML', 'RSS', 'SITEMAP']
 
 [markup.goldmark.renderer]
 unsafe = true
